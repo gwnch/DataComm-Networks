@@ -1,3 +1,3 @@
 # Data Communications and Networks
 
-Labs and projects
+Labs and projects completed for course.
